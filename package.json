@@ -39,5 +39,14 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@svgr/core": "^5.5.0",
+    "@types/svgo": "^2.3.0",
+    "camelcase": "^6.2.0",
+    "cheerio": "^1.0.0-rc.10",
+    "glob": "^7.1.7",
+    "react-icons": "^4.2.0",
+    "svgo": "^2.3.0"
   }
 }
